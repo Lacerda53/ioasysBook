@@ -3,12 +3,12 @@
 <div>
   <img src="https://user-images.githubusercontent.com/33927459/133543690-77ad9c69-6c71-45fa-927d-b8d1fcb1f1d4.png" width='300' />
   <img src="https://user-images.githubusercontent.com/33927459/133543796-b9a2cef2-5f8d-420a-a8d5-2e88f8043c88.png" width='300' />
-  <img src="https://user-images.githubusercontent.com/33927459/133543840-5163c128-cf62-4f63-987c-f0d4c8c6af1b.png" width='300' />  
 </div>
 <div>
+  <img src="https://user-images.githubusercontent.com/33927459/133543840-5163c128-cf62-4f63-987c-f0d4c8c6af1b.png" width='300' />  
   <img src="https://user-images.githubusercontent.com/33927459/133543882-b9838bd5-ace9-4bea-baf1-46903cf29016.png" width='300' />
-  <img src="https://user-images.githubusercontent.com/33927459/133543922-7d9973c0-dcca-4a92-8491-cbd416ff3a6a.png" width='300' />
 </div>
+  <img src="https://user-images.githubusercontent.com/33927459/133543922-7d9973c0-dcca-4a92-8491-cbd416ff3a6a.png" width='300' />
 
 📜  Projeto trata-se de um app que lista, filtra e busca livros.
 
