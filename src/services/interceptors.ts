@@ -38,7 +38,6 @@ export const InitializeInterceptors: () => void = () => {
 				}
 			}
 
-
 			return reject(err);
 		});
 	}
