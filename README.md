@@ -2,7 +2,7 @@
 
 <img src='https://bytebucket.org/ioasys/books-react-native/raw/de6de20784a3329b8a222000f046921545f3c6be/logo_ioasys.jpeg' />
 
-📜  Projeto trata-se de um app que lista, filtra e busca livros. O projeto foi feito como um teste técnico para a empresa ioasys da vaga de desenvolvedor mobile React Native
+📜  Projeto trata-se de um app que lista, filtra e busca livros.
 
 ## 🖌 Ilustração
 
