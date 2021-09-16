@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/33927459/133543882-b9838bd5-ace9-4bea-baf1-46903cf29016.png" width='300' />
 <img src="https://user-images.githubusercontent.com/33927459/133543922-7d9973c0-dcca-4a92-8491-cbd416ff3a6a.png" width='300' />
 
-📜  Projeto trata-se de um app que lista, filtra e busca livros. O projeto foi feito como um teste técnico para a empresa ioasys da vaga de desenvolvedor mobile React Native
+📜  Projeto trata-se de um app que lista, filtra e busca livros.
 
 ## 🖌 Ilustração
 
